@@ -34,11 +34,6 @@ p {
     color: #996633; /* Un color naranja claro */
 }
 
-.container > img {
-    height: 200px;
-    
-
-}
 /* Estilos para botones u otros elementos interactivos si los tienes */
 .button {
     background-color: #ff6600; /* Un color naranja brillante */
@@ -57,7 +52,7 @@ img {
 }
 
 /* Cambia el tamaño de las imágenes al pasar el ratón sobre ellas */
-img:hover {
+#carta img:hover {
     transform: scale(1.1); /* Aumenta el tamaño en un 10% al pasar el ratón sobre la imagen */
 }
 
