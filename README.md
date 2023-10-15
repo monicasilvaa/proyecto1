@@ -31,6 +31,9 @@ Abre el directorio del proyecto desde VS Code. A la izquierda de la pantalla pod
 
 ![DEMO](demo/usage.gif)
 
+## Copyright
+
+- [@monicasilvaa](https://github.com/monicasilvaa)
 
 ## Licencia
 
