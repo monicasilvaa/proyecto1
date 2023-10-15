@@ -1,0 +1,69 @@
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+.container {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #ffeecc; /* Un color amarillo claro */
+    color: #663300; /* Un color marrón oscuro */
+    justify-content: center;
+}
+
+.navbar-brand {
+    color: #663300;
+    font-weight: bold;
+}
+
+/* Estilos específicos para cada página */
+h1 {
+    font-size: 24px;
+    color: #663300;
+}
+
+p {
+    font-size: 16px;
+    color: #996633; /* Un color naranja claro */
+}
+
+.container > img {
+    height: 200px;
+    
+
+}
+/* Estilos para botones u otros elementos interactivos si los tienes */
+.button {
+    background-color: #ff6600; /* Un color naranja brillante */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilos para las imágenes de pasteles */
+img {
+    border: 1px solid #ffcc99; /* Un color melocotón claro */
+    border-radius: 20px;
+    transition: transform 0.2s; /* Transición suave al aplicar transformaciones */
+}
+
+/* Cambia el tamaño de las imágenes al pasar el ratón sobre ellas */
+img:hover {
+    transform: scale(1.1); /* Aumenta el tamaño en un 10% al pasar el ratón sobre la imagen */
+}
+
+/* Estilos adicionales según tus preferencias */
+/* Agrega estilos personalizados según la temática de tu pastelería */
+.card{
+    border:none;
+    padding: 15px;
+}
